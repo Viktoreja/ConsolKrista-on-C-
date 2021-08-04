@@ -4,3 +4,4 @@ D:\Программы\KonsolKrista\KonsolKrista\bin\Release\KonsolKrista.pdb
 D:\Программы\KonsolKrista\KonsolKrista\obj\Release\KonsolKrista.csproj.CoreCompileInputs.cache
 D:\Программы\KonsolKrista\KonsolKrista\obj\Release\KonsolKrista.exe
 D:\Программы\KonsolKrista\KonsolKrista\obj\Release\KonsolKrista.pdb
+D:\Программы\KonsolKrista\KonsolKrista\obj\Release\KonsolKrista.csproj.AssemblyReference.cache
