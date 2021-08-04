@@ -1,0 +1,7 @@
+D:\Программы\KonsolKrista\KonsolKrista\bin\Debug\KonsolKrista.exe.config
+D:\Программы\KonsolKrista\KonsolKrista\bin\Debug\KonsolKrista.exe
+D:\Программы\KonsolKrista\KonsolKrista\bin\Debug\KonsolKrista.pdb
+D:\Программы\KonsolKrista\KonsolKrista\obj\Debug\KonsolKrista.csproj.AssemblyReference.cache
+D:\Программы\KonsolKrista\KonsolKrista\obj\Debug\KonsolKrista.csproj.CoreCompileInputs.cache
+D:\Программы\KonsolKrista\KonsolKrista\obj\Debug\KonsolKrista.exe
+D:\Программы\KonsolKrista\KonsolKrista\obj\Debug\KonsolKrista.pdb
