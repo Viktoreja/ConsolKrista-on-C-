@@ -60,7 +60,7 @@ namespace KonsolKrista
             Console.WriteLine($"Начоло перелома {dateTime.AddMinutes(Convert.ToDouble(minetVentBeforStart))} ");
             minetVentBeforStart += breaking;
             Console.WriteLine($"Конец перелома {dateTime.AddMinutes(Convert.ToDouble(minetVentBeforStart))}");
-            minetVentBeforStart += Convert.ToInt64((tempToStartBreaking - tempToFinish) / (speadBreaking / (24 * 60)));
+            minetVentBeforStart += Convert.ToInt64((tempToStartBreaking - tempToFinish) / (speadBreaking /  60));
             Console.WriteLine($"Время извлечения {dateTime.AddMinutes(Convert.ToDouble(minetVentBeforStart))} \n");
 
         }
