@@ -8,7 +8,7 @@ namespace KonsolKrista
 {
     class LogikModel
     {
-
+        // It's work
         public DateTime dateTime = DateTime.Now;
        
         private long timeToUp;
